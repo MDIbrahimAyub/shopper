@@ -1,0 +1,53 @@
+.offer{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.offer1{
+    width: 90%;
+    height: 90%;
+    background:linear-gradient(180deg ,#fde1ff,#e1ffea22 60%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.offer2{
+    width: 100%;
+    height: 100%;
+}
+.offer2 img{
+    width: 100%;
+    height: 80%;
+    object-fit: contain;
+}
+.o-t{
+    width: 70%;
+    height: 100%;
+    padding-left: 70px;
+}
+.o-t p{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 1.1vw;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.o-t h1{
+    padding-top: 30px;
+    font-size: 3.3vw;
+    line-height: 80px;
+}
+
+.o-t button{
+    padding: 8px 40px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    font-size: 1.1vw;
+    color: #fff;
+    cursor: pointer;
+    background-color: #BC312F;
+}

@@ -1,0 +1,81 @@
+.loginsignup {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.loginsingup-continer1 {
+  width: 35%;
+  height: 85%;
+  background-color: #fff;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+}
+.loginsingup-continer1 h1 {
+  font-size: 2vw;
+  text-transform: uppercase;
+  padding: 20px 0px;
+  font-weight: 600;
+  padding-left: 32px;
+}
+.input-signup {
+  width: 100%;
+  height: 200px;
+  text-align: center;
+}
+.input-signup input {
+  width: 82%;
+  height: 45px;
+  margin-bottom: 20px;
+  background-color: transparent;
+  padding-left: 20px;
+  border: 1px solid #555;
+  outline: none;
+}
+.singup-btn {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.singup-btn button {
+  width: 87%;
+  border: none;
+  background-color: #ff4141;
+  color: #fff;
+  cursor: pointer;
+  height: 45px;
+}
+.singup-login {
+  width: 100%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding-left: 30px;
+  margin-top: 20px;
+  gap: 2px;
+}
+.singup-login p {
+  font-size: 1.2vw;
+}
+.singup-login a {
+  font-size: 1.2vw;
+  color: #ff4141;
+  text-decoration: none;
+}
+.singup-agree {
+  width: 100%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding-left: 30px;
+  margin-top: 20px;
+  gap: 10px;
+}
+.singup-agree {
+  font-size: 1.1vw;
+}

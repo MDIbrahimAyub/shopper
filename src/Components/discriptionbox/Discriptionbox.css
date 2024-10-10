@@ -1,0 +1,24 @@
+.descriptionbox{
+    margin: 50px 50px;
+    height: 200px;
+}
+.description-flex{
+    display: flex;
+    margin: 10px 0px;
+}
+.discription-nav-box{
+    padding: 12px 30px;
+    border: 1px solid #000;
+    font-size: 12px;
+}
+.discription-nav-box-fade{
+    padding: 12px 30px;
+    border: 1px solid #000;
+    font-size: 12px;
+    background-color: #0000000b;
+}
+.decriptionbox-description{
+    padding: 20px 10px;
+    border: 1px solid #000;
+    font-size: 1vw;
+}
